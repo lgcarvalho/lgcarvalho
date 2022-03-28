@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Luiz Guilherme Carvalho 👋
 
-- 🔭 Atualmente trabalho com GeneXus.
+- 🔭 Atualmente trabalho como desenvolvedor GeneXus.
 - 🌱 Estudando Desenvolvimento iOS (Xcode/Swift)
 
 <div style="display: inline_block">
