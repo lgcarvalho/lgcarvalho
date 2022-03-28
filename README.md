@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho com GeneXus.
 - 🌱 Estudando Desenvolvimento iOS (Xcode/Swift)
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/lgcarvalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lgcarvalho&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgcarvalho&layout=compact&langs_count=7&theme=codeSTACKr"/>
