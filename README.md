@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Luiz 👋
 
 - 🔭 Atualmente trabalho como desenvolvedor GeneXus.
-- 🌱 Estudando Python e IA para DEVs
+- 🌱 Estudando Machine Learning, Python e IA para DEVs
 
 <div style="display: inline_block">
   <a href="https://github.com/lgcarvalho">
